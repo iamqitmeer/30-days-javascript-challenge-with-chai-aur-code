@@ -29,6 +29,16 @@ The 30-Day JavaScript Challenge is designed to provide a structured and comprehe
 ## Daily Progress
 I will be updating this repository daily with my progress, including code snippets, projects, and solutions to the challenges I tackle. Follow along and feel free to provide your feedback and suggestions.
 
+## Day 1: Variables & Data Types
+On the first day, I learned about variables and data types in JavaScript. Understanding how to declare and use variables, as well as the different types of data (strings, numbers, booleans, etc.), is fundamental to writing effective JavaScript code.
+
+### Key Concepts Covered:
+- Variable declaration using `var`, `let`, and `const`
+- Primitive data types: `string`, `number`, `boolean`, `null`, `undefined`, `symbol`
+- Non-primitive data types: `object` (including arrays and functions)
+
+![Day 1: Variables & Data Types](./Images/Day%201.PNG)
+
 ## Follow My Journey
 Stay updated with my progress by following this repository. I am excited to embark on this journey and can't wait to see the progress I make over the next 30 days. Let's code our way to success! 💻🚀
 
