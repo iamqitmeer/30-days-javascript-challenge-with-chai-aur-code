@@ -26,15 +26,14 @@
 // console.log(typeof(num));
 
 // String
-// let booool = false;
-// console.log(typeof booool);
-
-// Boolean
 // let str = "Muhammad Raza";
 // console.log(typeof str);
 
-// null
+// Boolean
+// let booool = false;
+// console.log(typeof booool);
 
+// null
 // let nullVal = null
 // console.log(typeof nullVal);
 
