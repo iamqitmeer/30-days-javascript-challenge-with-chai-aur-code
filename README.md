@@ -46,6 +46,7 @@ On the first day, I learned about variables and data types in JavaScript. Unders
 ![Day 1: Variables & Data Types](./Images/Day%201.PNG)
 
 ------
+------
 
 ## Day 2: Operators
 
