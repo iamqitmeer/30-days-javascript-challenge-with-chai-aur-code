@@ -46,7 +46,6 @@ On the first day, I learned about variables and data types in JavaScript. Unders
 ![Day 1: Variables & Data Types](./Images/Day%201.PNG)
 
 ------
-------
 
 ## Day 2: Operators
 
@@ -58,7 +57,24 @@ On the second day of the 30-Day JavaScript Challenge, I focused on understanding
 - **Comparison and Logical Operators** - Compare values and combine conditions.
 - **Ternary Operator** - Use for concise conditional expressions.
 
-![Day 1: Variables & Data Types](./Images/Day%202.PNG)
+![Day 2: Operators](./Images/Day%202.PNG)
+
+------
+
+## Day 3: Control Structures / Flow
+
+On the second day of the 30-Day JavaScript Challenge, Today's focus was on control structures and flow, which are essential for directing the execution of code based on various conditions and loops.
+
+### Key Concepts Covered
+
+• Implement and understand basic if-else control flow.
+• Use nested if-else statements to handle multiple conditions.
+• Utilize switch cases for control flow based on specific values.
+• Apply the ternary operator for concise condition checking.
+• Combine multiple conditions to solve more complex problems.
+
+![Day 3: Control Structures / Flow](./Images/Day%203.PNG)
+
 
 ## Follow My Journey
 
