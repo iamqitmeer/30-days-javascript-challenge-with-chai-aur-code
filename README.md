@@ -45,7 +45,7 @@ On the first day, I learned about variables and data types in JavaScript. Unders
 
 ![Day 1: Variables & Data Types](./Images/Day%201.PNG)
 
-------
+---
 
 ## Day 2: Operators
 
@@ -59,7 +59,7 @@ On the second day of the 30-Day JavaScript Challenge, I focused on understanding
 
 ![Day 2: Operators](./Images/Day%202.PNG)
 
-------
+---
 
 ## Day 3: Control Structures / Flow
 
@@ -75,6 +75,21 @@ On the third day of the 30-Day JavaScript Challenge, Today's focus was on contro
 
 ![Day 3: Control Structures / Flow](./Images/Day%203.PNG)
 
+---
+
+## Day 4: Loops
+
+On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on mastering loops in JavaScript, which are essential for repeating tasks and iterating over data.
+
+### Key Concepts Covered
+
+• Understand and use for loops to iterate over a sequence of numbers.
+• Utilize while loops for iteration based on a condition.
+• Apply do...while loops to ensure the loop body is executed at least once.
+• Implement nested loops to solve more complex problems.
+• Use loop control statements (break and continue) to control the flow of loops.
+
+![Day 4: Loops](./Images/Day%204.PNG)
 
 ## Follow My Journey
 
