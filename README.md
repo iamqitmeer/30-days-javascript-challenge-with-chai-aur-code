@@ -63,7 +63,7 @@ On the second day of the 30-Day JavaScript Challenge, I focused on understanding
 
 ## Day 3: Control Structures / Flow
 
-On the second day of the 30-Day JavaScript Challenge, Today's focus was on control structures and flow, which are essential for directing the execution of code based on various conditions and loops.
+On the third day of the 30-Day JavaScript Challenge, Today's focus was on control structures and flow, which are essential for directing the execution of code based on various conditions and loops.
 
 ### Key Concepts Covered
 
