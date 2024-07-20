@@ -66,19 +66,30 @@
 // Activity 5: Higher-Order Functions
 // • Task 9: Write a higher-order function that takes a function and a number, and calls the function that many times.
 
-function callbackFunction(){
-    console.log('I am  a callback function');
-}
+// function greet(fun, time) {
+//   return function () {
+//     for (let i = 0; i < time; i++) {
+//       fun();
+//     }
+//   };
+// }
 
-// higher order function
-function higherOrderFunction(func){
-    console.log('I am higher order function')
-    func()
-}
+// let hello = () => console.log("Hello");
 
-higherOrderFunction(callbackFunction);
+// let say = greet(hello, 5);
+// say();
 
 // • Task 10: Write a higher-order function that takes two functions and a value, applies the first function to the value, and then applies the second function to the result.
+
+// function composeFunctions(fn1, fn2, value) {
+//   return fn2(fn1(value));
+// }
+
+// const add2 = (x) => x + 2;
+// const multiplyBy3 = (x) => x * 3;
+
+// const result = composeFunctions(add2, multiplyBy3, 5);
+// console.log(result);
 
 // Feature Request:
 // 1. Even or Odd Function Script: Write a script that includes a function to check if a number is even or odd and logs the result.
@@ -114,6 +125,19 @@ higherOrderFunction(callbackFunction);
 // console.log(sumOfTwoNum(2));
 
 // 5. Higher-Order Function Script: Write a script that includes a higher-order function to apply a given function multiple times.
+
+// function greet(fun, time) {
+//   return function () {
+//     for (let i = 0; i < time; i++) {
+//       fun();
+//     }
+//   };
+// }
+
+// let hello = () => console.log("Hello");
+
+// let say = greet(hello, 5);
+// say();
 
 // Achievement:
 // By the end of these activities, students will:
