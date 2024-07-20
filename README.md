@@ -67,12 +67,17 @@ On the third day of the 30-Day JavaScript Challenge, Today's focus was on contro
 
 ### Key Concepts Covered
 
-• Implement and understand basic if-else control flow.
-• Use nested if-else statements to handle multiple conditions.
-• Utilize switch cases for control flow based on specific values.
-• Apply the ternary operator for concise condition checking.
-• Combine multiple conditions to solve more complex problems.
 
+• Implement and understand basic if-else control flow.
+<br>
+• Use nested if-else statements to handle multiple conditions.
+<br>
+• Utilize switch cases for control flow based on specific values.
+<br>
+• Apply the ternary operator for concise condition checking.
+<br>
+• Combine multiple conditions to solve more complex problems.
+<br>
 ![Day 3: Control Structures / Flow](./Images/Day%203.PNG)
 
 ---
@@ -83,12 +88,17 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 
 ### Key Concepts Covered
 
-• Understand and use for loops to iterate over a sequence of numbers.
-• Utilize while loops for iteration based on a condition.
-• Apply do...while loops to ensure the loop body is executed at least once.
-• Implement nested loops to solve more complex problems.
-• Use loop control statements (break and continue) to control the flow of loops.
 
+• Understand and use for loops to iterate over a sequence of numbers.
+<br>
+• Utilize while loops for iteration based on a condition.
+<br>
+• Apply do...while loops to ensure the loop body is executed at least once.
+<br>
+• Implement nested loops to solve more complex problems.
+<br>
+• Use loop control statements (break and continue) to control the flow of loops.
+<br>
 ![Day 4: Loops](./Images/Day%204.PNG)
 
 ---
@@ -99,12 +109,17 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 
 ### Key Concepts Covered
 
-• Understand and define functions using function declarations, expressions, and arrow functions.
-• Use function parameters and default values effectively.
-• Create and utilize higher-order functions.
-• Apply functions to solve common problems and perform calculations.
-• Enhance code reusability and organization using functions.
 
+• Understand and define functions using function declarations, expressions, and arrow functions.
+<br>
+• Use function parameters and default values effectively.
+<br>
+• Create and utilize higher-order functions.
+<br>
+• Apply functions to solve common problems and perform calculations.
+<br>
+• Enhance code reusability and organization using functions.
+<br>
 ![Day 5: Functions](./Images/Day%205.PNG)
 
 ---
@@ -115,11 +130,15 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 
 ### Key Concepts Covered
 
-• Create and manipulate arrays using various methods.
-• Transform and aggregate array data using map, filter, and reduce.
-• Iterate over arrays using loops and iteration methods.
-• Understand and work with multi-dimensional arrays.
 
+• Create and manipulate arrays using various methods.
+<br>
+• Transform and aggregate array data using map, filter, and reduce.
+<br>
+• Iterate over arrays using loops and iteration methods.
+<br>
+• Understand and work with multi-dimensional arrays.
+<br>
 ![Day 6: Arrays](./Images/Day%206.PNG)
 
 ## Follow My Journey
