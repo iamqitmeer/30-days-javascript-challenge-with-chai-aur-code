@@ -67,7 +67,6 @@ On the third day of the 30-Day JavaScript Challenge, Today's focus was on contro
 
 ### Key Concepts Covered
 
-
 • Implement and understand basic if-else control flow.
 <br>
 • Use nested if-else statements to handle multiple conditions.
@@ -87,7 +86,6 @@ On the third day of the 30-Day JavaScript Challenge, Today's focus was on contro
 On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on mastering loops in JavaScript, which are essential for repeating tasks and iterating over data.
 
 ### Key Concepts Covered
-
 
 • Understand and use for loops to iterate over a sequence of numbers.
 <br>
@@ -109,7 +107,6 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 
 ### Key Concepts Covered
 
-
 • Understand and define functions using function declarations, expressions, and arrow functions.
 <br>
 • Use function parameters and default values effectively.
@@ -129,7 +126,6 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on mastering functions in JavaScript, which are essential for structuring code, reusability, and solving complex problems efficiently.
 
 ### Key Concepts Covered
-
 
 • Create and manipulate arrays using various methods.
 <br>
