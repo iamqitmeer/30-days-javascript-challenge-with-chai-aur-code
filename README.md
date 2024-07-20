@@ -103,7 +103,7 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 
 ## Day 5: Functions
 
-On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on mastering functions in JavaScript, which are essential for structuring code, reusability, and solving complex problems efficiently.
+On the fifth day of the 30-Day JavaScript Challenge, Today's focus was on mastering functions in JavaScript, which are essential for structuring code, reusability, and solving complex problems efficiently.
 
 ### Key Concepts Covered
 
@@ -123,7 +123,7 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 
 ## Day 6: Arrays
 
-On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on mastering functions in JavaScript, which are essential for structuring code, reusability, and solving complex problems efficiently.
+On the sixth day of the 30-Day JavaScript Challenge, Today's focus was on mastering functions in JavaScript, which are essential for structuring code, reusability, and solving complex problems efficiently.
 
 ### Key Concepts Covered
 
@@ -136,6 +136,21 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 • Understand and work with multi-dimensional arrays.
 <br>
 ![Day 6: Arrays](./Images/Day%206.PNG)
+
+---
+
+## Day 7: Objects
+
+On the Seventh day of the 30-Day JavaScript Challenge, Today's focus was on mastering objects in JavaScript, which are fundamental for representing and organizing complex data structures.
+
+### Key Concepts Covered
+
+_Object Creation and Manipulation:_ - Learned how to create and manipulate objects with properties and methods.
+_Using the this Keyword:_ - Understood and used the this keyword in object methods.
+_Nested Objects and Arrays of Objects:_ - Worked with nested objects and arrays of objects to handle complex data.
+_Iterating Over Object Properties:_ - Iterated over an object's properties using loops and built-in methods.
+
+![Day 7: Objects](./Images/Day%207.PNG)
 
 ## Follow My Journey
 
