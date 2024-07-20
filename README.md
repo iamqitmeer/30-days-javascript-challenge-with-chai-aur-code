@@ -91,6 +91,37 @@ On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on maste
 
 ![Day 4: Loops](./Images/Day%204.PNG)
 
+---
+
+## Day 5: Functions
+
+On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on mastering functions in JavaScript, which are essential for structuring code, reusability, and solving complex problems efficiently.
+
+### Key Concepts Covered
+
+• Understand and define functions using function declarations, expressions, and arrow functions.
+• Use function parameters and default values effectively.
+• Create and utilize higher-order functions.
+• Apply functions to solve common problems and perform calculations.
+• Enhance code reusability and organization using functions.
+
+![Day 5: Functions](./Images/Day%205.PNG)
+
+---
+
+## Day 6: Arrays
+
+On the fourth day of the 30-Day JavaScript Challenge, Today's focus was on mastering functions in JavaScript, which are essential for structuring code, reusability, and solving complex problems efficiently.
+
+### Key Concepts Covered
+
+• Create and manipulate arrays using various methods.
+• Transform and aggregate array data using map, filter, and reduce.
+• Iterate over arrays using loops and iteration methods.
+• Understand and work with multi-dimensional arrays.
+
+![Day 6: Arrays](./Images/Day%206.PNG)
+
 ## Follow My Journey
 
 Stay updated with my progress by following this repository. I am excited to embark on this journey and can't wait to see the progress I make over the next 30 days. Let's code our way to success! 💻🚀
