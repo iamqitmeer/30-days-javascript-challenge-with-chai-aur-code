@@ -48,7 +48,7 @@
 // Activity 3: Switch Case
 // • Task 4: Write a program that uses a switch case to determine the day of the week based on a number (1-7) and log the day name to the console.
 
-// let dayNum = 5;
+// let dayNum = 6;
 
 // switch (dayNum) {
 //   case 1:
@@ -110,27 +110,13 @@
 // Activity 5: Combining Conditions
 // • Task 7: Write a program to check if a year is a leap year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
 
-// let year = 2023;
-// let isLeapYear;
 
-// if (year % 4 === 0) {
-//     if (year % 100 === 0) {
-//         if (year % 400 === 0) {
-//             isLeapYear = true;
-//         } else {
-//             isLeapYear = false;
-//         }
-//     } else {
-//         isLeapYear = true;
-//     }
-// } else {
-//     isLeapYear = false;
-// }
+// let year = 2000;
 
-// if (isLeapYear) {
-//     console.log(`${year} is a leap year.`);
-// } else {
-//     console.log(`${year} is not a leap year.`);
+// if (year % 4 == 0) {
+//     console.log(`${year} is a leap year`);
+// }else{
+//     console.log(`${year} is not a leap year`);
 // }
 
 // Feature Request:
@@ -213,27 +199,13 @@
 
 // 5. Leap Year Check Script: Write a script that checks if a year is a leap year using multiple conditions and logs the result.
 
-// let year = 2023;
-// let isLeapYear;
 
-// if (year % 4 === 0) {
-//     if (year % 100 === 0) {
-//         if (year % 400 === 0) {
-//             isLeapYear = true;
-//         } else {
-//             isLeapYear = false;
-//         }
-//     } else {
-//         isLeapYear = true;
-//     }
-// } else {
-//     isLeapYear = false;
-// }
+// let year = 2000;
 
-// if (isLeapYear) {
-//     console.log(`${year} is a leap year.`);
-// } else {
-//     console.log(`${year} is not a leap year.`);
+// if (year % 4 == 0) {
+//     console.log(`${year} is a leap year`);
+// }else{
+//     console.log(`${year} is not a leap year`);
 // }
 
 // Achievement:
