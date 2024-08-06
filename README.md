@@ -181,6 +181,21 @@ On Day 8 of the 30-day JavaScript challenge from Chai aur Code, we dive into mod
 
 ![Day 8: ES6+ Features](./Images/Day%208.PNG)
 
+---
+
+## Day 9: DOM Manipulation
+
+On Day 9 of the 30-day JavaScript challenge, we explore modern techniques for manipulating the Document Object Model (DOM) using JavaScript. This session covers selecting and altering DOM elements, creating and appending new elements, removing elements, modifying attributes and classes, and adding event listeners to create interactive web pages.
+
+### Key Concepts
+- **Selecting DOM Elements:** Using methods like `getElementById`, `querySelector`, and `querySelectorAll` to access HTML elements.
+- **Manipulating DOM Elements:** Changing the content, style, and attributes of elements.
+- **Creating and Appending Elements:** Dynamically adding new elements to the DOM.
+- **Removing Elements:** Deleting elements from the DOM.
+- **Handling Events:** Adding event listeners to respond to user interactions.
+
+![Day 8: DOM Manipulation](./Images/Day%209.PNG)
+
 ## Follow My Journey
 
 Stay updated with my progress by following this repository. I am excited to embark on this journey and can't wait to see the progress I make over the next 30 days. Let's code our way to success! 💻🚀
