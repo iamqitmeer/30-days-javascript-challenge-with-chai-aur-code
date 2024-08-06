@@ -152,6 +152,35 @@ On the Seventh day of the 30-Day JavaScript Challenge, Today's focus was on mast
 
 ![Day 7: Objects](./Images/Day%207.PNG)
 
+---
+
+## Day 8: ES6+ Features
+
+On Day 8 of the 30-day JavaScript challenge from Chai aur Code, we dive into modern ES6+ features that significantly enhance JavaScript programming. This session covers template literals, destructuring, spread/rest operators, default parameters, and enhanced object literals.
+
+### Key Concepts Covered
+
+1. **Template Literals**
+   - **String Interpolation:** Embed expressions inside string literals using `${}`.
+   - **Multi-line Strings:** Create strings that span multiple lines without needing escape characters.
+
+2. **Destructuring**
+   - **Array Destructuring:** Extract values from arrays into distinct variables.
+   - **Object Destructuring:** Extract properties from objects and assign them to variables.
+
+3. **Spread and Rest Operators**
+   - **Spread Operator (`...`):** Expand arrays or objects into individual elements.
+   - **Rest Parameter (`...`):** Collect multiple arguments into a single array in function definitions.
+
+4. **Default Parameters**
+   - Define default values for function parameters to handle cases where arguments are not provided.
+
+5. **Enhanced Object Literals**
+   - **Method Definitions:** Simplify function definitions within object literals.
+   - **Computed Property Names:** Use expressions as property names in object literals.
+
+![Day 8: ES6+ Features](./Images/Day%208.PNG)
+
 ## Follow My Journey
 
 Stay updated with my progress by following this repository. I am excited to embark on this journey and can't wait to see the progress I make over the next 30 days. Let's code our way to success! 💻🚀
