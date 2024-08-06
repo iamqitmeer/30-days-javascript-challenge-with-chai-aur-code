@@ -194,7 +194,22 @@ On Day 9 of the 30-day JavaScript challenge, we explore modern techniques for ma
 - **Removing Elements:** Deleting elements from the DOM.
 - **Handling Events:** Adding event listeners to respond to user interactions.
 
-![Day 8: DOM Manipulation](./Images/Day%209.PNG)
+![Day 9: DOM Manipulation](./Images/Day%209.PNG)
+
+---
+
+## Day 10: Event Handling
+
+On Day 10, we explored modern event handling techniques that significantly enhance JavaScript programming. We learned how to interact with users through various events and how to manage these events efficiently. This session covers the basics of event handling, form events, event delegation, and how to make web pages interactive.
+
+### Key Concepts
+
+-- **Basic Events:** Introduction to handling common events like clicks, double-clicks, mouse movements, and keyboard actions.
+-- **Form Events:** Techniques for managing events related to form inputs and submissions, enhancing form interactions.
+-- **Event Delegation:** Efficiently manage events for dynamically added elements using event delegation, reducing code duplication.
+-- **Interactivity:** Utilize JavaScript events to create interactive and engaging web pages, responding dynamically to user actions.
+
+![Day 10: Event Handling](./Images/Day%2010.PNG)
 
 ## Follow My Journey
 
