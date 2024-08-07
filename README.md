@@ -210,6 +210,21 @@ On Day 10, we explored modern event handling techniques that significantly enhan
 
 ![Day 10: Event Handling](./Images/Day%2010.PNG)
 
+---
+
+## Day 11: Modern Promises and Async/Await
+
+On Day 11 of the 30-day JavaScript challenge, we explore modern techniques for handling asynchronous operations using Promises and the async/await syntax. These concepts are essential for managing asynchronous code in a more structured and readable way. By the end of this session, you'll be equipped to work with asynchronous data flows effectively.
+
+### Key Concepts
+- **Promises:** Understanding how to create and use promises to handle asynchronous operations, including managing resolved and rejected states.
+- **Promise Chaining:** Sequencing multiple promises for orderly execution of asynchronous tasks.
+- **Async/Await:** Leveraging async functions and the await keyword for more readable and concise asynchronous code.
+- **Fetching Data:** Retrieving data from public APIs using both promises and async/await.
+- **Managing Multiple Promises:** Using `Promise.all` and `Promise.race` to handle multiple concurrent promises.
+
+![Day 11: Modern Promises and Async/Await](./Images/Day%2011.PNG)
+
 ## Follow My Journey
 
 Stay updated with my progress by following this repository. I am excited to embark on this journey and can't wait to see the progress I make over the next 30 days. Let's code our way to success! 💻🚀
