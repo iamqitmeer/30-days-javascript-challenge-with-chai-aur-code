@@ -225,6 +225,21 @@ On Day 11 of the 30-day JavaScript challenge, we explore modern techniques for h
 
 ![Day 11: Modern Promises and Async/Await](./Images/Day%2011.PNG)
 
+---
+
+## Day 12: Error Handling
+
+On Day 12 of the 30-day JavaScript challenge, we focus on mastering error handling in JavaScript. Effective error handling ensures that your code is robust and can gracefully manage unexpected situations. By the end of this session, you'll be proficient in various error handling techniques, including the use of try-catch blocks, custom error classes, and handling errors in asynchronous code.
+
+### Key Concepts
+- **Promises:** Understanding how to create and use promises to handle asynchronous operations, including managing resolved and rejected states.
+- **Promise Chaining:** Sequencing multiple promises for orderly execution of asynchronous tasks.
+- **Async/Await:** Leveraging async functions and the await keyword for more readable and concise asynchronous code.
+- **Fetching Data:** Retrieving data from public APIs using both promises and async/await.
+- **Managing Multiple Promises:** Using `Promise.all` and `Promise.race` to handle multiple concurrent promises.
+
+![Day 12: Error Handling](./Images/Day%2012.PNG)
+
 ## Follow My Journey
 
 Stay updated with my progress by following this repository. I am excited to embark on this journey and can't wait to see the progress I make over the next 30 days. Let's code our way to success! 💻🚀
